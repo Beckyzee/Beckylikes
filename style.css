@@ -1,0 +1,31 @@
+*
+*::after
+*::before {
+box-sizing: border-box;
+}
+.first {
+color: blueviolet;
+}
+#order {
+    color: brown;
+}
+h2 {color: blue;}
+
+.second{ color: palevioletred;}
+
+#third { color: black;}
+
+span { color: green;
+}
+
+.another span {
+    color: inherit;
+}
+body {
+    font-size: 20px;
+    border: 4px solid orangered;
+    border-radius: 15px;
+    width: 800px;
+    margin: 20px;
+    padding: 20px;
+}
